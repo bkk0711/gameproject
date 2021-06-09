@@ -1,0 +1,3 @@
+H:\GTA\NGG\NGG\gamemodes\NGRP.pwn(125) : ������������� �� ������������: "MainMenuUpdateForPlayer"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
